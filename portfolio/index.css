@@ -217,20 +217,24 @@
 .u-section-4 .u-text-1 {margin: 108px 20px 0 0}
 .u-section-4 .u-line-1 {width: 43px; position: relative; transform-origin: left center 0; margin: 30px auto 0 0}
 .u-section-4 .u-text-2 {margin: 30px 20px 0 0}
-.u-section-4 .u-btn-1 {margin: 30px auto 0 0}
+.u-section-4 .u-btn-1 {margin: 30px auto 0 87px}
+.u-section-4 .u-btn-2 {margin: -42px 108px 0 auto}
 .u-section-4 .u-text-3 {margin: 138px 7px 0 0}
-.u-section-4 .u-image-1 {background-image: url("images/9ac486b869ccd786429ddd7e105ac3eb.jpeg"); min-height: 283px; background-position: 50% 50%}
-.u-section-4 .u-image-2 {background-image: url("images/242359fb8de4f7eab4375568ebc6050a.jpeg"); min-height: 283px; background-position: 50% 50%}
-.u-section-4 .u-image-3 {background-image: url("images/6b0071f41f7fedf43ebc2a3b73508ec5.jpeg"); background-position: 50% 50%; min-height: 283px}
-.u-section-4 .u-image-4 {background-image: url("images/c5a2e22ccf2808126a878f2e2d7c25c5.jpeg"); background-position: 50% 50%; min-height: 283px} 
+.u-section-4 .u-image-1 {background-image: url("images/lol.png"); min-height: 283px; background-position: 50% 50%}
+.u-section-4 .u-image-2 {min-height: 283px; background-image: url("images/AffinityDiagram.jpg"); background-position: 36.2% 0%; background-size: auto 185%}
+.u-section-4 .u-image-3 {min-height: 283px; background-image: url("images/SKETCHESLABELED.png"); background-position: 4.91% 50%}
+.u-section-4 .u-image-4 {min-height: 283px; background-image: url("images/lol1.png"); background-position: 100% 11.58%} 
 
 @media (max-width: 1199px){ .u-section-4 .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
 .u-section-4 .u-container-layout-1 {padding-left: 16px}
 .u-section-4 .u-text-1 {position: relative; margin-right: 16px}
 .u-section-4 .u-line-1 {width: 35px}
 .u-section-4 .u-text-2 {position: relative; margin-right: 16px}
-.u-section-4 .u-btn-1 {position: relative}
-.u-section-4 .u-text-3 {position: relative; margin-right: 6px} }
+.u-section-4 .u-btn-1 {position: relative; margin-left: 0}
+.u-section-4 .u-btn-2 {margin-right: 8px}
+.u-section-4 .u-text-3 {position: relative; margin-right: 6px}
+.u-section-4 .u-image-2 {background-position: 50% 50%}
+.u-section-4 .u-image-4 {background-position: 50% 50%} }
 
 @media (max-width: 991px){ .u-section-4 .u-container-layout-1 {padding-left: 13px}
 .u-section-4 .u-text-1 {margin-right: 13px}
@@ -242,6 +246,7 @@
 .u-section-4 .u-text-1 {margin-right: 9px}
 .u-section-4 .u-line-1 {width: 25px}
 .u-section-4 .u-text-2 {margin-right: 9px}
+.u-section-4 .u-btn-2 {margin-right: 0}
 .u-section-4 .u-text-3 {margin-right: 3px} }
 
 @media (max-width: 575px){ .u-section-4 .u-container-layout-1 {padding-left: 6px}
